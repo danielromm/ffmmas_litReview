@@ -1,2 +1,2 @@
 # ffmmas_litReview
-We systematically collected every peer-reviewed, English-language journal article or conference paper that uses geospatial methods to analyze Free-Floating Micromobility Access Systems (FFMMAS).
+We systematically collected every peer-reviewed, English-language journal article or conference paper that uses geospatial methods to analyze Free-Floating Micromobility Access Systems (FFMMAS). This is intended to support researchers and analysts working with FFMMAS in navigating the existing literature. It is our hope that this will begin a process of collaboration and we encourage others to contribute to the table.
